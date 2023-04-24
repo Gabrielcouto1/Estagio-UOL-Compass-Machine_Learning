@@ -108,7 +108,7 @@ let meuCont = contador(5);
 
 meuCont();
 meuCont();
-meuCont();
+console.log(typeof meuCont);
 
 console.log("\n\nAula 106");
 
